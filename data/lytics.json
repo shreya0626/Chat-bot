@@ -1,0 +1,12 @@
+{
+    "How do I build an audience segment in Lytics?": "Use the Audience Builder tool in the Lytics dashboard to define segments based on user behavior.",
+    "How do I create custom user attributes in Lytics?": "Define custom attributes in the Lytics UI and update them using the API.",
+    "How can I export data from Lytics?": "Use the Data Export feature to extract user data into CSV or integrate with external tools.",
+    "How does Lytics score user engagement?": "Lytics uses behavioral scoring models to rank user engagement and predict future actions.",
+    "How can I integrate Lytics with my CRM?": "Use the 'Destinations' feature to sync Lytics segments with Salesforce, HubSpot, or other CRM tools.",
+    "What is the Lytics Content Affinity Engine?": "It analyzes user interactions to recommend personalized content based on preferences.",
+    "Can I use Lytics for predictive analytics?": "Yes, Lytics provides predictive scoring to help identify high-value customers.",
+    "How do I track website activity in Lytics?": "Install the Lytics JavaScript tag on your site to collect user interactions.",
+    "What is the difference between audiences and segments in Lytics?": "Audiences are groups of users with shared characteristics, while segments define specific criteria within audiences.",
+    "How do I set up event tracking in Lytics?": "Use the Lytics API or SDKs to send event data and trigger user profile updates."
+}

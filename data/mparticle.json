@@ -1,0 +1,12 @@
+{
+    "How can I create a user profile in mParticle?": "Use the Identity API to set up a user profile and associate it with multiple identifiers.",
+    "How do I set up event tracking in mParticle?": "Use `logEvent()` in the SDKs to send custom events to mParticle.",
+    "How do I integrate mParticle with my analytics tool?": "Use the 'Connections' tab in the mParticle dashboard to configure event forwarding.",
+    "How do I merge user profiles in mParticle?": "Use IDSync to manage user identity resolution across different devices.",
+    "How can I validate event data in mParticle?": "Use the 'Live Stream' feature in the mParticle dashboard to view real-time events.",
+    "What are Audience Syncs in mParticle?": "They allow you to sync user cohorts with external platforms for remarketing.",
+    "How do I handle data privacy in mParticle?": "Use mParticle’s GDPR and CCPA compliance tools to manage user consent and data deletion.",
+    "Can I use mParticle offline?": "Yes, mParticle SDKs support offline data collection and will sync when the user is back online.",
+    "How can I enrich user data in mParticle?": "Use Data Master and Partner Feeds to enhance user profiles with external data.",
+    "What is a Workspace in mParticle?": "Workspaces allow you to manage multiple environments within the same mParticle account."
+}

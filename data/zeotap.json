@@ -1,0 +1,12 @@
+{
+    "How can I integrate my data with Zeotap?": "Use Zeotap’s API or SDKs to ingest customer data securely into the platform.",
+    "How do I create an audience in Zeotap?": "Go to the Zeotap dashboard, select 'Audiences', and define criteria based on user attributes.",
+    "How do I activate data in Zeotap?": "Connect Zeotap with external platforms like Facebook Ads or Google Marketing Platform for data activation.",
+    "How does Zeotap ensure data privacy?": "Zeotap follows GDPR and CCPA compliance guidelines to protect user data.",
+    "Can I use Zeotap for lookalike audience modeling?": "Yes, Zeotap provides AI-driven lookalike modeling to expand audience reach.",
+    "How do I analyze customer behavior with Zeotap?": "Use Zeotap Insights to access user behavior trends and predictive analytics.",
+    "What industries benefit from Zeotap?": "Industries such as retail, finance, telecom, and automotive use Zeotap for customer data enrichment.",
+    "How do I connect Zeotap with my CDP?": "Use Zeotap’s integrations with CDPs like Segment, mParticle, and Lytics for seamless data transfer.",
+    "What are Zeotap’s Identity Graph capabilities?": "Zeotap unifies customer identities across multiple touchpoints to improve targeting accuracy.",
+    "How can I measure campaign performance in Zeotap?": "Use Zeotap’s reporting and analytics tools to track engagement and conversion metrics."
+}

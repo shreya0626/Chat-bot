@@ -1,0 +1,7 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Streamlit-specific cache and logs
+.streamlit/
+
+

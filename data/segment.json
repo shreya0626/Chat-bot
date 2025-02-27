@@ -1,0 +1,12 @@
+{
+    "How do I set up a new source in Segment?": "Go to the Segment dashboard, navigate to 'Sources', click 'Add Source', and follow the instructions.",
+    "How can I track events in Segment?": "Use `analytics.track()` to send event data or `analytics.page()` for page views.",
+    "How do I forward data from Segment to other tools?": "Configure 'Destinations' in the Segment dashboard and set up integrations with your analytics tools.",
+    "How do I enable data filtering in Segment?": "Use the 'Tracking Plan' feature to define allowed event types and attributes.",
+    "How do I debug event delivery in Segment?": "Go to the 'Debugger' tab in the Segment dashboard to see real-time event logs.",
+    "How can I use Segment Functions?": "With Segment Functions, you can write JavaScript to transform and route data before sending it to destinations.",
+    "How do I manage user identities in Segment?": "Use `analytics.identify()` to associate users with unique IDs and attributes.",
+    "Can I send offline data to Segment?": "Yes, you can use the Segment HTTP API to send batch data from offline sources.",
+    "How do I handle GDPR compliance in Segment?": "Use Segment's Privacy Portal to manage data deletion and user consent preferences.",
+    "What are Traits in Segment?": "Traits are user attributes stored in `analytics.identify()` and can be used for personalization."
+}
